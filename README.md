@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261120/Apizairdrop/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![reward](https://make.fun/badge/news-image-20261120/Apizairdrop/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-A one-page newspaper front page summing up Friday 20 November 2026: Trump pushes any Iran decision to 2027 (Senate rejects a war-powers curb 51–48), Cyclone Akvan forces 300,000 evacuations in Odisha, Europe opens the door to Ukraine talks, Voyager 1 reaches one light-day, and GTA 6 is estimated at $1.84bn by Sensor Tower (19.05m copies; no official figure yet). The image is drawn by render.py with PIL; main.py copies it to the grader's output directory.
+A one-page newspaper front page summing up Friday 20 November 2026: Trump puts any Iran decision off to 2027 (Senate rejects a war-powers curb 51–48), Cyclone Akvan forces 300,000 evacuations in Odisha, Europe opens the door to Ukraine talks in Berlin, the World Court rules Myanmar committed genocide against the Rohingya, and GTA 6 is estimated at $1.84bn by Sensor Tower (19.05m copies; no official figure yet). The ticker notes Voyager 1 now a light-day out, Hayabusa2 retargeting after engine trouble, and Anthropic shares +17% on a record IPO debut. The image is drawn by render.py with PIL; main.py copies it to the grader's output directory.
 
 ## Run it
 
